@@ -36,25 +36,6 @@ visualisation.
 
 ---
 
-## Project Structure
-
-```
-Lagos-Real-Estate-Analysis/
-│
-├── notebooks/
-│   ├── 01_scraping.ipynb
-│   ├── 02_analysis.ipynb
-│   └── 03_modelling.ipynb  ← future
-│
-├── data/
-│   └── lagosIsland.csv
-│   └── lagos_clean.csv
-│
-└── README.md
-```
-
----
-
 ## Key Findings
 - **Location is the dominant pricing factor** — Ikoyi commands prices 
   ₦7.19B above the Lagos average while mainland areas like Ikorodu and 
