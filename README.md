@@ -121,5 +121,3 @@ Email: dtomisin07@gmail.com
 
 ## Next Steps
 - [ ] Build a Lagos House Price Prediction Model using regression
-- [ ] Add LinkedIn profile link
-- [ ] Expand scraping to all 1,725 pages for complete market coverage
