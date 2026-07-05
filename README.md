@@ -37,6 +37,8 @@ visualisation.
 ---
 
 ## Project Structure
+
+```
 Lagos-Real-Estate-Analysis/
 │
 ├── notebooks/
@@ -49,6 +51,7 @@ Lagos-Real-Estate-Analysis/
 │   └── lagos_clean.csv
 │
 └── README.md
+```
 
 ---
 
